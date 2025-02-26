@@ -1,1 +1,0 @@
-/Users/igorganapolsky/workspace/git/ai/AI-Generic-Bot/LexChatbotApp/android/app/build/intermediates/cxx/Debug/7211i4ez/obj/x86

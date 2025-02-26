@@ -34,3 +34,19 @@ var/
 *.egg-info/
 .installed.cfg
 *.egg
+
+# React Native build files
+LexChatbotApp/android/.gradle/
+LexChatbotApp/android/app/.cxx/
+LexChatbotApp/android/build/
+LexChatbotApp/ios/build/
+LexChatbotApp/ios/Pods/
+
+# Bot information
+bot_info.json
+
+# Misc
+.DS_Store
+node_modules/
+npm-debug.log
+yarn-error.log
