@@ -1,0 +1,5 @@
+# ninja log v5
+1	12	0	/Users/igorganapolsky/workspace/git/ai/AI-Generic-Bot/LexChatbotApp/android/app/.cxx/Debug/7211i4ez/x86/CMakeFiles/cmake.verify_globs	84c4c2143aea3652
+0	1891	1740602387791598876	CMakeFiles/appmodules.dir/Users/igorganapolsky/workspace/git/ai/AI-Generic-Bot/LexChatbotApp/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	e2ddfe8a7a035092
+1	2002	1740602387929920691	CMakeFiles/appmodules.dir/OnLoad.cpp.o	2f055a6d47474acc
+2002	2137	1740602388103335689	/Users/igorganapolsky/workspace/git/ai/AI-Generic-Bot/LexChatbotApp/android/app/build/intermediates/cxx/Debug/7211i4ez/obj/x86/libappmodules.so	7c60579bc9f3309b
